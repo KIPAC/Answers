@@ -38,7 +38,7 @@ Having read your questions, we first decide whether our answer will be of intere
 ## Comments, copyright, blame etc
 
 The content in this repository is Copyright 2016 KIPAC, but distributed under the MIT license. 
-That means that it is yours to copy and redistribute however you like, just don't blame us if it turns out to be innaccurate. 
+That means that it is yours to copy and redistribute however you like, just don't blame us if it turns out to be inaccurate. 
 We all need to test our own assumptions!
 When re-using any of our words, you'll find that providing a citation link back to the KIPAC blog post where they first appeared 
 will make most sense to your audience.
